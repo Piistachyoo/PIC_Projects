@@ -1,0 +1,12 @@
+[submodule "PIC18F4620-Drivers"]
+	path = PIC18F4620-Drivers
+	url = git@github.com:Piistachyoo/PIC18F4620-Drivers.git
+[submodule "I2C-Communication-Between-3-PIC18F"]
+	path = I2C-Communication-Between-3-PIC18F
+	url = git@github.com:Piistachyoo/I2C-Communication-Between-3-PIC18F.git
+[submodule "Temperature-Controlled-Fan-PIC18F"]
+	path = Temperature-Controlled-Fan-PIC18F
+	url = git@github.com:Piistachyoo/Temperature-Controlled-Fan-PIC18F.git
+[submodule "UART-Communication-between-2-PIC18F"]
+	path = UART-Communication-between-2-PIC18F
+	url = git@github.com:Piistachyoo/UART-Communication-between-2-PIC18F.git
